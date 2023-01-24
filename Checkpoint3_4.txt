@@ -1,0 +1,4 @@
+Answers to 3.4:
+1. git log
+2. git status
+3. git init
